@@ -1,6 +1,12 @@
 # nojam
 'Baekjoon Online Judge' Solving Problems using Python
 
+## 210217(水)
+* 10773 : 제로
+* 3040 : 백설 공주와 일곱 난쟁이
+* 10809 : 알파벳 찾기
+* 3058 : 짝수를 찾아라 (ing)
+
 ## 210216(火)
 * 5543 : 상근날드
 * 2587 : 대표값2
