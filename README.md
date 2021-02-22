@@ -1,6 +1,12 @@
 # nojam
 'Baekjoon Online Judge' Solving Problems using Python
 
+## 210222(月)
+* 1094 : 막대기
+
+## 210221(日)
+* 2751 : 수 정렬하기 2
+
 ## 210220(土)
 * 10808 : 알파벳 개수
 * 1157 : 단어 공부
